@@ -1,0 +1,11 @@
+Student_ID,Name,HTML,CSS,JAVASCRIPT,SQL,PYTHON,Attendance,Total,Average,Grade,Result
+1,Priyanka,85,78,90,76,82,92,411,82.2,A,Pass
+2,Reshma,60,92,75,70,78,85,375,75.0,B,Pass
+3,Jahnavi,88,65,88,97,70,98,408,81.6,A,Pass
+4,Susmitha,98,85,97,99,88,75,467,93.4,S,Pass
+5,Yamuna,95,96,95,87,79,94,452,90.4,S,Pass
+6,JayaSree,65,98,73,78,77,88,391,78.2,B,Pass
+7,Reena,86,89,55,97,98,96,425,85.0,A,Pass
+8,Nithin,45,76,73,58,34,85,286,57.2,D,Fail
+9,Gagan,87,54,81,97,54,74,373,74.6,B,Pass
+10,Punith,83,35,39,76,45,86,278,55.6,D,Pass
